@@ -1,0 +1,1 @@
+http://localhost/test_scann_barrecode/
